@@ -1,0 +1,2 @@
+# 02_Wiederhohlung_Methoden_und_Arrays_Aufgabe2
+Hauptprogramm mit ausgelagerter Methode mit Unterprogrammen
